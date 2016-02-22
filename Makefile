@@ -13,12 +13,12 @@ C 	= pandoc
 # Add some flag shit
 #FLAGS	+=
 
-CONTENT = content/Curriculum.md
+CONTENT = Curriculum.md
 
 
 # HTML TARGET
 #-------------------------------------------------------------------------
-TARGET_HTML = Curriculum.html
+TARGET_HTML = formats/Curriculum.html
 
 .PHONY: html
 html: $(TARGET_HTML)
@@ -31,7 +31,7 @@ $(TARGET_HTML): $(CONTENT)
 
 # PDF TARGET
 #-------------------------------------------------------------------------
-TARGET_PDF = Curriculum.pdf
+TARGET_PDF = formats/Curriculum.pdf
 
 # Add PDF related FLAGS
 PDF_FLAGS 	= --latex-engine=xelatex
