@@ -1,7 +1,6 @@
 
 # Ekaitz Zarraga Rio
 - Bilbao, Biscay, Spain
-- +34 636796847
 - ekaitzzarraga@gmail.com
 - http://pfctelepathy.wordpress.com
 
