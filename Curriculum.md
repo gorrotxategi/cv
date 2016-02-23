@@ -2,7 +2,7 @@
 # Ekaitz Zarraga Rio
 - Bilbao, Biscay, Spain
 - ekaitzzarraga@gmail.com
-- http://pfctelepathy.wordpress.com
+- [Personal blog about technology][blogPersonal]
 
 ---
 
@@ -98,4 +98,5 @@ Ranked 4 out of 61.
 
 ---
 
+[blogPersonal]: http://pfctelepathy.wordpress.com
 [davidBlog]: http://blog.davidedmundson.co.uk/blog/ktp_0.9
