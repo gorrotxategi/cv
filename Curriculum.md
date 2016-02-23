@@ -4,13 +4,20 @@
 - ekaitzzarraga@gmail.com
 - http://pfctelepathy.wordpress.com
 
+---
+
+## Intro
 
 
 ---
 
 ## Technical Skills
-> **Likes:** `linux, gnu-linux, electronics, telecommunication, c, c++, java,
+> `linux, gnu-linux, electronics, telecommunication, c, c++, java,
 javascript, python, perl, robotics, prototyping`
+
+## Soft Skills
+> `Public speaking, Teaching/Mentoring, Creative Problem Solving, Creativity,
+Documentation, Research, Learning`
 
 ---
 
@@ -74,9 +81,4 @@ Ranked 4 out of 61.
 
 
 ---
-
-
-
-
-
 
