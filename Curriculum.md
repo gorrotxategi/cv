@@ -7,13 +7,29 @@
 ---
 
 ## Intro
+I am a telecommunication Engineer born in 1991.
+
+I started getting into Free Software and programming because it is the easiest
+way for me to develop new things and use my creativity but, at the same time I
+have been working on electronics, design and arts. Most of the times learning
+by myself diving on the Internet. This includes: drawing, painting, sculpting,
+circuit design, programming, 3D design and modelling, creative writing and
+more.
+
+I practiced martial arts (judo, aikido and karate) for years.
 
 
 ---
 
+## Languages
+- English: Conversation level.
+- Euskera: Conversation level.
+- Español: Native language.
+
+
 ## Technical Skills
-> `linux, gnu-linux, electronics, telecommunication, c, c++, java,
-javascript, python, perl, robotics, prototyping`
+> `gnu-linux, electronics, telecommunication, programming, robotics,
+prototyping, design, PCB-design, 3D-design`
 
 ## Soft Skills
 > `Public speaking, Teaching/Mentoring, Creative Problem Solving, Creativity,
@@ -77,8 +93,9 @@ Ranked 4 out of 61.
 * Migration of the `ktp-call-ui` module to `QML`.
 * C++ development (`Qt`, `QML`, `KDE-libraries`).
 * Work with the KDE community on a real open source project.
-* [Project included in 0.9.0 version of the software](http://blog.davidedmundson.co.uk/blog/ktp_0.9).
+* [Project included in 0.9.0 version of the software][davidBlog]
 
 
 ---
 
+[davidBlog]: http://blog.davidedmundson.co.uk/blog/ktp_0.9
