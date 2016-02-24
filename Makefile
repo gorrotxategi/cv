@@ -10,6 +10,7 @@ C 	= pandoc
 # Set default to all
 .DEFAULT_GOAL := all
 
+FLAGS	= -s
 # Add some flag shit
 #FLAGS	+=
 
