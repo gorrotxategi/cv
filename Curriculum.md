@@ -10,7 +10,7 @@
 I am a telecommunication Engineer born in 1991.
 
 I started getting into Free Software and programming because it is the easiest
-way for me to develop new things and use my creativity but, at the same time I
+way for me to develop new things and use my creativity but, at the same time, I
 have been working on electronics, design and arts. Most of the times learning
 by myself diving on the Internet. This includes: drawing, painting, sculpting,
 circuit design, programming, 3D design and modelling, creative writing and
