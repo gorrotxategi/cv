@@ -22,8 +22,8 @@ I practiced martial arts (judo, aikido and karate) for years.
 ---
 
 ## Languages
-- English: Conversation level.
-- Euskera: Conversation level.
+- English: Conversational.
+- Euskera: Fluent.
 - Español: Native language.
 
 
