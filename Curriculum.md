@@ -1,5 +1,5 @@
 
-# Ekaitz Zarraga Rio
+# Ekaitz Zarraga
 - Bilbao, Biscay, Spain
 - ekaitzzarraga@gmail.com
 - [Personal blog about technology][blogPersonal]
