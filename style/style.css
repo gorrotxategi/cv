@@ -25,3 +25,7 @@ h3 + blockquote{
   font-style: italic;
   background-color: transparent;
 }
+
+li{
+  list-style-type: circle;
+}
