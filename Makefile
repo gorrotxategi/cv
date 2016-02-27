@@ -21,11 +21,14 @@ CONTENT = Curriculum.md
 #-------------------------------------------------------------------------
 TARGET_HTML = formats/Curriculum.html
 
+# Stylesheet for HTML
+HTML_STYLE = --css=../style/style.css
+
 .PHONY: html
 html: $(TARGET_HTML)
 
 $(TARGET_HTML): $(CONTENT)
-	$(C) $(FLAGS) -o $@ $(CONTENT)
+	$(C) $(FLAGS) $(HTML_STYLE) -o $@ $(CONTENT)
 
 
 

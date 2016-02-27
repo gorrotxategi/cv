@@ -1,7 +1,7 @@
 
 # Ekaitz Zarraga
 - Bilbao, Biscay, Spain
-- ekaitzzarraga@gmail.com
+- [ekaitzzarraga@gmail.com][e-mail]
 - [Personal blog about technology][blogPersonal]
 
 ---
@@ -21,19 +21,21 @@ I practiced martial arts (judo, aikido and karate) for years.
 
 ---
 
-## Languages
+## Skills
+
+### Languages
 - English: Conversational.
 - Euskera: Fluent.
 - Español: Native language.
 
 
-## Technical Skills
-> `gnu-linux, electronics, telecommunication, programming, robotics,
-prototyping, design, PCB-design, 3D-design`
+### Technical Skills
+> gnu-linux, electronics, telecommunication, programming, prototyping, design,
+PCB-design, 3D-design
 
-## Soft Skills
-> `Public speaking, Teaching/Mentoring, Creative Problem Solving, Creativity,
-Documentation, Research, Learning`
+### Soft Skills
+> Public speaking, Teaching/Mentoring, Creative Problem Solving, Creativity,
+Documentation, Research, Learning
 
 ---
 
@@ -41,9 +43,9 @@ Documentation, Research, Learning`
 
 **R&D Engineer**, Fon, *Current*
 
-> **Skills:** `c, java, python, javascript, css, perl, bash, gnu-linux,
+> **Skills:** c, java, python, javascript, css, perl, bash, gnu-linux,
 openwrt, wifi, amazon-web-services, amazon-dynamodb, amazon-s3, amazon-lambda,
-leaflet, google-maps`
+leaflet, google-maps
 
 Research & Development engineer in Wifi related company.
 
@@ -58,13 +60,13 @@ Research & Development engineer in Wifi related company.
 
 **VoIP technician**, Irontec, *August 2014 - April 2015*
 
-> **Skills:** `debian, gnu-linux, sip, voip, nagios, ansible, perl, python,
- pyqt, c, bash, sysadmin, helpdesk, mysql, php`
+> **Skills:** debian, gnu-linux, sip, voip, nagios, ansible, perl, python,
+ pyqt, c, bash, sysadmin, helpdesk, mysql, php
 
 VoIP system management, maintenance, and development.
 
 * Use and management of [IvozNG](https://www.irontec.com/voz-ip/ivoz) solution,
-  based on `Debian`, `Asterisk`, `MySQL` and `PHP`.
+  based on Debian, Asterisk, MySQL and PHP.
 * Issue handling and problem solving. Helpdesk.
 * Linux systems administration. Scripting, automation, maintenance.
 * VoIP hardware management.
@@ -77,8 +79,8 @@ VoIP system management, maintenance, and development.
 **Telecomunications Engineer**, The Faculty of Engineering in Bilbao,
 University of the Basque Country UPV/EHU, *2009 – 2014*
 
-> **Skills:** `c, c++, java, qt, qml, latex, telecommunication, electronics,
- signal-processing, networking, linux, kde`
+> **Skills:** c, c++, java, qt, qml, latex, telecommunication, electronics,
+ signal-processing, networking, linux, kde
 
 ### Studies
 
@@ -90,8 +92,8 @@ Ranked 4 out of 61.
 > "Renovation of the User Interface of KDE-Telepathy Audio and Video Call
  module"  
 
-* Migration of the `ktp-call-ui` module to `QML`.
-* C++ development (`Qt`, `QML`, `KDE-libraries`).
+* Migration of the ktp-call-ui module to QML.
+* C++ development (Qt, QML, KDE-libraries).
 * Work with the KDE community on a real open source project.
 * [Project included in 0.9.0 version of the software][davidBlog]
 
@@ -100,3 +102,4 @@ Ranked 4 out of 61.
 
 [blogPersonal]: http://pfctelepathy.wordpress.com
 [davidBlog]: http://blog.davidedmundson.co.uk/blog/ktp_0.9
+[e-mail]: mailto://ekaitzzarraga@gmail.com
