@@ -47,7 +47,7 @@ Documentation, Research, Learning
 
 > **Skills:** c, java, python, javascript, css, perl, bash, gnu-linux,
 openwrt, wifi, amazon-web-services, amazon-dynamodb, amazon-s3, amazon-lambda,
-leaflet, google-maps
+leaflet, google-maps, postgresql, postgis
 
 Research & Development engineer in Wifi related company.
 
