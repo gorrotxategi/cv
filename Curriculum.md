@@ -1,5 +1,6 @@
 
 # Ekaitz Zarraga
+
 - Bilbao, Biscay, Spain
 - [ekaitzzarraga@gmail.com][e-mail]
 - [Personal blog about technology][blogPersonal]
@@ -41,13 +42,12 @@ Documentation, Research, Learning
 
 ## Experience
 
-###R&D Engineer
+### R&D Engineer
 
 [Fon][fon], *Current*
 
 > **Skills:** c, java, python, javascript, css, perl, bash, gnu-linux,
-openwrt, wifi, amazon-web-services, amazon-dynamodb, amazon-s3, amazon-lambda,
-leaflet, google-maps, postgresql, postgis
+openwrt, wifi, amazon-web-services, leaflet, google-maps, postgresql, postgis
 
 Research & Development engineer in Wifi related company.
 
@@ -60,7 +60,7 @@ Research & Development engineer in Wifi related company.
 
 
 
-###VoIP technician
+### VoIP technician
 
 [Irontec][irontec], *August 2014 - April 2015*
 
@@ -69,7 +69,7 @@ Research & Development engineer in Wifi related company.
 
 VoIP system management, maintenance, and development.
 
-* Use and management of [IvozNG](https://www.irontec.com/voz-ip/ivoz) solution,
+* Use and management of [IvozNG][ivoz] solution,
   based on Debian, Asterisk, MySQL and PHP.
 * Issue handling and problem solving. Helpdesk.
 * Linux systems administration. Scripting, automation, maintenance.
@@ -80,7 +80,7 @@ VoIP system management, maintenance, and development.
 
 ## Education
 
-###Telecomunications Engineer
+### M. Sc. Telecomunications Engineer
 
 The Faculty of Engineering in Bilbao, University of the Basque Country UPV/EHU,
 *2009 – 2014*
@@ -111,3 +111,4 @@ Ranked 4 out of 61.
 [e-mail]: mailto://ekaitzzarraga@gmail.com
 [fon]: https://fon.com/
 [irontec]: https://www.irontec.com/
+[ivoz]: https://www.irontec.com/voz-ip/ivoz
