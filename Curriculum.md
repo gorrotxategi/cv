@@ -70,8 +70,8 @@ Research & Development engineer in Wifi related company.
 
 VoIP system management, maintenance, and development.
 
-* Use and management of [IvozNG][ivoz] solution,
-  based on Debian, Asterisk, MySQL and PHP.
+* Use and management of [IvozNG][ivoz] solution, based on Debian, Asterisk,
+  MySQL and PHP.
 * Issue handling and problem solving. Helpdesk.
 * Linux systems administration. Scripting, automation, maintenance.
 * VoIP hardware management.
