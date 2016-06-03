@@ -32,11 +32,11 @@ I practiced martial arts (judo, aikido and karate) for years.
 
 ### Technical Skills
 > GNU-Linux, electronics, telecommunication, programming, prototyping, design,
-PCB-design, 3D-design
+> PCB-design, 3D-design
 
 ### Soft Skills
 > Public speaking, Teaching/Mentoring, Creative Problem Solving, Creativity,
-Documentation, Research, Learning
+> Documentation, Research, Learning
 
 ---
 
@@ -46,8 +46,8 @@ Documentation, Research, Learning
 
 [Fon][fon], *Current*
 
-> **Skills:** c, java, python, javascript, css, perl, bash, gnu-linux,
-openwrt, wifi, amazon-web-services, leaflet, google-maps, postgresql, postgis
+> **Skills:** c, java, python, javascript, css, perl, bash, gnu-linux, openwrt,
+> wifi, amazon-web-services, leaflet, google-maps, postgresql, postgis
 
 Research & Development engineer in Wifi related company.
 
@@ -65,7 +65,7 @@ Research & Development engineer in Wifi related company.
 [Irontec][irontec], *August 2014 - April 2015*
 
 > **Skills:** debian, gnu-linux, sip, voip, nagios, ansible, perl, python,
- pyqt, c, bash, sysadmin, helpdesk, mysql, php
+> pyqt, c, bash, sysadmin, helpdesk, mysql, php
 
 VoIP system management, maintenance, and development.
 
@@ -86,7 +86,7 @@ The Faculty of Engineering in Bilbao, University of the Basque Country UPV/EHU,
 *2009 – 2014*
 
 > **Skills:** c, c++, java, qt, qml, latex, telecommunication, electronics,
- signal-processing, networking, linux, kde
+> signal-processing, networking, linux, kde
 
 #### Studies
 
@@ -96,7 +96,7 @@ Ranked 4 out of 61.
 #### Final project
 
 > "Renovation of the User Interface of KDE-Telepathy Audio and Video Call
- module"  
+> module"
 
 * Migration of the ktp-call-ui module to QML.
 * C++ development (Qt, QML, KDE-libraries).
