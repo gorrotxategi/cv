@@ -1,5 +1,5 @@
 
-# Ekaitz Zarraga
+# Ekaitz Zárraga
 
 - Bilbao, Biscay, Spain
 - [ekaitzzarraga@gmail.com][e-mail]
