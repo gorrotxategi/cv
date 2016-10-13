@@ -22,7 +22,8 @@ CONTENT = Curriculum.md
 TARGET_HTML = formats/Curriculum.html
 
 # Stylesheet for HTML
-HTML_STYLE = --css=../style/style.css
+# HTML_STYLE = --css=../style/style.css
+HTML_STYLE = --css=../style/pandoc.css
 
 .PHONY: html
 html: $(TARGET_HTML)
@@ -38,7 +39,8 @@ $(TARGET_HTML): $(CONTENT)
 TARGET_PDF = formats/Curriculum.pdf
 
 # Add PDF related FLAGS
-PDF_FLAGS 	= --latex-engine=xelatex
+PDF_FLAGS = --latex-engine=xelatex
+PDF_FLAGS += -V colorlinks=true
 
 .PHONY: pdf
 pdf: $(TARGET_PDF)
