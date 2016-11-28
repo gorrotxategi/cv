@@ -46,9 +46,9 @@ I practiced martial arts (judo, aikido and karate) for years.
 
 [Fon][fon], *Current*
 
-> **Skills:** c, java, python, javascript, css, perl, bash, gnu-linux, openwrt,
-> wifi, amazon-web-services, leaflet, google-maps, postgresql, postgis,
-> apache-spark
+> **Skills:** c, java, python, javascript, html+css, perl, bash, gnu-linux,
+> openwrt, wifi, amazon-web-services, leaflet, google-maps, postgresql,
+> postgis, apache-spark, backbone.js, coffeescript, node.js
 
 Research & Development engineer in Wifi related company.
 
