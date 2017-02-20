@@ -44,7 +44,7 @@ I practiced martial arts (judo, aikido and karate) for years.
 
 ### R&D Engineer
 
-[Fon][fon], *Current*
+[Fon][fon], *September 2015 - February 2017*
 
 > **Skills:** c, java, python, javascript, html+css, perl, bash, gnu-linux,
 > openwrt, wifi, amazon-web-services, leaflet, google-maps, postgresql,
