@@ -2,7 +2,7 @@
 # Ekaitz Zárraga
 
 - Bilbao, Biscay, Spain
-- [ekaitzzarraga@gmail.com][e-mail]
+- [ekaitz.zarraga@protonmail.com][e-mail]
 - [Personal blog about technology][blogPersonal]
 
 ---
@@ -134,4 +134,4 @@ Ranked 4 out of 61.
 [fon]: https://fon.com/
 [irontec]: https://www.irontec.com/
 [ivoz]: https://www.irontec.com/voz-ip/ivoz
-[elenq]: https://gitlab.com/ElenQ
+[elenq]: https://elenq.tech
