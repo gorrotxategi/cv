@@ -63,7 +63,7 @@ Main responsibilities:
 * Transfer the acquired knowledge. Courses, documentation, demonstrations...
 
 For more information about the developed projects visit our
-[portfolio][elenq-portfolio]
+[portfolio][elenq-portfolio].
 
 
 ### R&D Engineer
