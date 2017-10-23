@@ -45,7 +45,8 @@ I practiced martial arts (judo, aikido and karate) for years.
 ### Founder and R&D Engineer
 [Elenq Technology][elenq], *February 2017 - Current*
 
-> **Skills:** Research, learning, electronics, social skills, teaching
+> **Skills:** Research, learning, electronics, social skills, teaching,
+> kicad, electronics design
 
 Founder of the 1-person company ElenQ.
 
@@ -61,6 +62,8 @@ Main responsibilities:
 * Research and Development job as a main role.
 * Transfer the acquired knowledge. Courses, documentation, demonstrations...
 
+For more information about the developed projects visit our
+[portfolio][elenq-portfolio]
 
 
 ### R&D Engineer
@@ -135,3 +138,4 @@ Ranked 4 out of 61.
 [irontec]: https://www.irontec.com/
 [ivoz]: https://www.irontec.com/voz-ip/ivoz
 [elenq]: https://elenq.tech
+[elenq-portfolio]: https://elenq.tech/en/services#portfolio
