@@ -1,141 +1,144 @@
-
-# Ekaitz Zárraga
+# Eider Gorrotxategi
 
 - Bilbao, Biscay, Spain
-- [ekaitz.zarraga@protonmail.com][e-mail]
-- [Personal blog about technology][blogPersonal]
+- [eider.gorrotxategi@protonmail.com][e-mail]
 
 ---
 
 ## Intro
-I am a telecommunication Engineer born in 1991.
 
-I started getting into Free Software and programming because it is the easiest
-way for me to develop new things and use my creativity but, at the same time, I
-have been working on electronics, design and arts – most of the times learning
-by myself diving in the Internet. This includes: drawing, painting, sculpting,
-circuit design, programming, 3D design and modelling, creative writing and
-more.
+I studied Telecommunication Engineering and all my career have been oriented
+to data analysis for Banks.
 
-I practiced martial arts (judo, aikido and karate) for years.
+Recently, I've been thinking about myself and I want to use the knowledge and
+the tools I have to more social purposes. I'm interested on: renewable energy,
+ecology, healthcare...
 
+I'm flexible and adaptable, I learn fast and I'm not afraid of a new tool or a
+new environment.
+
+In my free time I'm making clothes for babies in order to learn to sew with a
+sewing machine. Also, I'm taking guitar lessons to take advantage of the years
+I took part in the local chorus of my hometown.
 
 ---
 
 ## Skills
 
 ### Languages
+- Basque: *Native language*.
+- Spanish: *Native language*.
 - English: *Conversational*.
-- Euskera: *Fluent*.
-- Español: *Native language*.
-
-
-### Technical Skills
-> GNU-Linux, electronics, telecommunication, programming, prototyping, design,
-> PCB-design, 3D-design
+- Catalan: *Basic knowledge, self-taught*.
+- French: *Basic knowledge*.
 
 ### Soft Skills
-> Public speaking, Teaching/Mentoring, Creative Problem Solving, Creativity,
-> Documentation, Research, Learning
+
+> Polyvalence, Team Management, Empathy, Respect, Kindness, Team Player,
+> Learning, Research, Teaching/Mentoring, Public Speaking
+
+### Technical Skills
+
+> databases, business intelligence, agile methodologies, project management,
+> requirements engineering
+
 
 ---
 
 ## Experience
 
-### Founder and R&D Engineer
-[Elenq Technology][elenq], *February 2017 - Current*
+### Functional Analyst
+[Entelgy Ibai][entelgy], *August 2015 - Current*
 
-> **Skills:** Research, learning, electronics, social skills, teaching,
-> kicad, electronics design
+> **Skills:** microstrategy, powercenter, etl, talend,  sas base, sql,
+> data-analysis, agile metodologies, scrum, requirements engineering, project
+> management business intelligence, dashboards, big data, unix
 
-Founder of the 1-person company ElenQ.
+Worked as a contractor for the BBVA in three different positions.
 
-ElenQ Technology is a R&D company. Focuses Free Software, Free Hardware and
-Ethical design. Targets Small- to Mid-Sized Companies. Also develops its own
-ideas.
+First, started in the Data Exploitation and Data Management department working
+with Microstrategy, like in the intership period but in a full-time position.
 
-All the projects have a social impact.
+Second, after a one-month Powercenter course, worked with ETL (Extract
+Transform and Load) tools for data loading in a Big Data environment.
 
-Main responsibilities:
+Meanwhile, worked remotely with South America in a requirements engineering
+project for the BBVA.
 
-* Find clients, ideas and opportunities.
-* Research and Development job as a main role.
-* Transfer the acquired knowledge. Courses, documentation, demonstrations...
+Third, in *July 2016*, after a one-week SAS course, moved to Department of
+Finance to take on the development of a cost classification tool for the BBVA
+annual costs using SAS Base and SQL in a Big Data environment.
 
-For more information about the developed projects visit our
-[portfolio][elenq-portfolio].
+* Scrum methodology
+* Direct communication with the client and the final user
+* Knowledge about Banking System internals
+* Work in a Big Data environment
+* Continuous learning
+* Flexibility and open-mind
+
+### Internship
+
+[BBVA][bbva], *January 2015 - July 2015*
+
+> **Skills:** microstrategy, R, sql, agile metodologies, scrum, data analysis,
+> support, business intelligence, dashboards, big data
+
+Technical collaborator in the Data Exploitation and Data Management department
+of the BBVA. Support work in the conceptualization, generation and testing of
+dashboards and resolution of queries in the scope of Microstrategy.
+
+* Ad-hoc report and dashboard development
+* Issue reporting and tracing 
 
 
-### R&D Engineer
+### Internship
 
-[Fon][fon], *September 2015 - February 2017*
+[Ik4-Tekniker][tekniker], *October 2013 - July 2014*
 
-> **Skills:** c, java, python, javascript, html+css, perl, bash, gnu-linux,
-> openwrt, wifi, amazon-web-services, leaflet, google-maps, postgresql,
-> postgis, apache-spark, backbone.js, coffeescript, node.js
+> **Skills:** wireshark, c programming, networking, research & development,
+> network protocol analysis, wireless sensor networks
 
-Research & Development engineer in Wifi related company.
-
-* Continuous research and learning.
-* Presence on variety of projects.
-* Flexibility to learn and work with different programming languages,
-  technologies and architectures.
-* Documentation and product demonstration.
-* Work in an English speaking environment.
-
-
-
-### VoIP technician
-
-[Irontec][irontec], *August 2014 - April 2015*
-
-> **Skills:** debian, gnu-linux, sip, voip, nagios, ansible, perl, python,
-> pyqt, c, bash, sysadmin, helpdesk, mysql, php
-
-VoIP system management, maintenance, and development.
-
-* Use and management of [IvozNG][ivoz] solution, based on Debian, Asterisk,
-  MySQL and PHP.
-* Issue handling and problem solving. Helpdesk.
-* Linux systems administration. Scripting, automation, maintenance.
-* VoIP hardware management.
-* Minor research and development jobs.
+Development of the final project in collaboration with Ik4-Tekniker.
 
 ---
 
 ## Education
 
+### Professional Scrum Master I
+[Scrum.org][scrum] *2017*
+
+Official Scrum Master certification. *Exam pending*
+
+### SAS Programming fast
+[SAS Spain][sas] – Madrid *2015*
+
+Official [SAS][sas] business intelligence tool course. The course covered SAS
+Base programming language.
+
 ### M. Sc. Telecomunications Engineer
 
 The Faculty of Engineering in Bilbao, University of the Basque Country UPV/EHU,
-*2009 – 2014*
-
-> **Skills:** c, c++, java, qt, qml, latex, telecommunication, electronics,
-> signal-processing, networking, linux, kde
-
-#### Studies
-
-Mainly focused on **electronics** and **computer science**.  
-Ranked 4 out of 61.
+*2007 – 2014*
 
 #### Final project
 
-> "Renovation of the User Interface of KDE-Telepathy Audio and Video Call
-> module"
+> "Creation of plugin for Wireshark to analyze a protocol based on IEEE
+> 802.15.4 y 6LowPAN"
 
-* Migration of the ktp-call-ui module to QML.
-* C++ development (Qt, QML, KDE-libraries).
-* Work with the KDE community on a real open source project.
-* [Project included in 0.9.0 version of the software][davidBlog]
+Develop a [Wireshark][wireshark] plugin for TIBUMAC protocol analysis. TIBUMAC
+is a proprietary protocol made by Ik4-Tekniker for Wireless Sensor Networks.
+
+* Collaboration with the industry
+* C development
+* Wireshark plugin development
 
 
 ---
 
-[blogPersonal]: http://pfctelepathy.wordpress.com
-[davidBlog]: http://blog.davidedmundson.co.uk/blog/ktp_0.9
-[e-mail]: mailto://ekaitzzarraga@gmail.com
-[fon]: https://fon.com/
-[irontec]: https://www.irontec.com/
-[ivoz]: https://www.irontec.com/voz-ip/ivoz
-[elenq]: https://elenq.tech
-[elenq-portfolio]: https://elenq.tech/en/services#portfolio
+[e-mail]: mailto://eider.gorrotxategi@protonmail.com
+[entelgy]: https://www.entelgy.com/
+[bbva]: https://www.bbva.com/en/
+[tekniker]: http://www.tekniker.es/en/
+[wireshark]: http://www.wireshark.org
+[sas]: https://www.sas.com/
+[scrum]: https://www.scrum.org/
